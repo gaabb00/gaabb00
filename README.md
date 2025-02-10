@@ -6,7 +6,9 @@ Currently a QA, focused on growing as a PHP developer, with basics in JS and Pyt
 Passionate about best practices in development and testing.
 
 📚 Nowadays: working as QA.
+
 👩🏻‍💻 Interests/Future Studies: Java, C# and TypeScript.
+
 🌎 Backend.
 
 
