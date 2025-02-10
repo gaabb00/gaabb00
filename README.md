@@ -8,3 +8,5 @@ Passionate about best practices in development and testing.
 📚 Nowadays: working as QA.
 👩🏻‍💻 Interests/Future Studies: Java, C# and TypeScript.
 🌎 Backend.
+
+
